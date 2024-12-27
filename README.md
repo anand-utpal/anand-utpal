@@ -31,15 +31,7 @@ I do programming/coding for integrating scientific studies to it with my own fle
 ---
 
 ### Download My [Cover Letter](https://theutpalanand.github.io/)
-<table>
- <table style="border-collapse: collapse; border: none;">
-  <tr>
-   <td> <h3> Let's jump into me</h3></td>
-    <td style="border: none;">
-      <img src="./Media/jumping.gif" style="width: 80px; height: 80px; display: block;">
-    </td>
-  </tr>
-</table>
+
 
 
 ---
