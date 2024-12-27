@@ -42,42 +42,8 @@ I do programming/coding for integrating scientific studies to it with my own fle
 </table>
 
 
-
-```Matlab
-classdef Researcher
-    properties
-        Name = 'Utpal Anand'
-        Pronouns = ["He", "Him"]
-        Role = 'Research Student'
-        Skills = {"Obviously Physics", "Computational Techniques"}
-        Tools = {"Matlab", "Mathematica","Github", "Python", "Desmos", "LateX"}
-        AskMeAbout = {"Physics", "Osho", "Philosophy", "Research", "Biology"}
-        Knowledge = struct('science', {"Physics", "Biology", "Maths & ECS"}, ...
-                           'programming', {"Python", "Matlab", "LateX"}, ...
-                           'philosophy', {"Osho", "Spirituality"}, ...
-                           'misc', {"Trading", "Politics"})
-        CurrentFocus = 'Mastering Physics and Research'
-        FunFact = '🔮|| Philosophy is the unreal version of Spirituality ||🔮'
-    end
-end
-
-% Create an instance of Researcher
-researcher = Researcher();
-researcher.Name = 'Utpal Anand';
-researcher.Pronouns = ["He", "Him"];
-researcher.CurrentFocus = 'Mastering Physics and Research';
-% Display some properties
-fprintf('Name: %s\n', researcher.Name);
-fprintf('Role: %s\n', researcher.Role);
-fprintf('Current Focus: %s\n', researcher.CurrentFocus);
-fprintf('Fun Fact: %s\n', researcher.FunFact);
-
-    
-```
 ---
-<p align="center">
-<img src="https://github.com/TheUtpalAnand/TheUtpalAnand/blob/main/Media/github.jpg" alt="Footer Image">
-</p>
+
 <p align="center"> <img src="./Media/cat.gif" width="200" > </p>
 <p align="center"> Thanks for Visiting My Profile </p>
 
