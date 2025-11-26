@@ -1,8 +1,8 @@
-<h2 > Hi <img src="./Media/dog.gif" width="50">, I'm Utpal Anand ! </h2>
+<h2 > Hi, I'm Utpal Anand! </h2>
+<!-- <h2 > Hi <img src="./Media/dog.gif" width="50">, I'm Utpal Anand ! </h2> -->
+<p >About me.. </p>
 
-<p >Let's do some Research.... </p>
-
-I'm a research student and in my 3rd year of Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
+I'm a research student and in my 3rd year of an Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
 I am doing a major in physics and working in NLP(Natural Language Processing) and Deep Learning.<br>
 
 
@@ -35,8 +35,8 @@ I am doing a major in physics and working in NLP(Natural Language Processing) an
 
 ---
 
-<p align="center"> <img src="./Media/cat.gif" width="200" > </p>
-<p align="center"> Thanks for Visiting My Profile </p>
+<!-- <p align="center"> <img src="./Media/cat.gif" width="200" > </p>
+<p align="center"> Thanks for Visiting My Profile </p> -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TheUtpalAnand&style=flat-square&color=orange" alt="Profile Views">
