@@ -21,7 +21,7 @@ I am doing a major in physics and working in NLP(Natural Language Processing) an
 <img src="./Media/alien.gif" width="25">
 
 ---
-### Download My [Resume](https://theutpalanand.github.io/) and [Curriculum Vitae](https://theutpalanand.github.io/) 
+### Download My [Curriculum Vitae](https://theutpalanand.github.io/) 
 ---
 <p align="center">
 <img src="./Media/Baner%20for%20site.png" alt="Header Image">
