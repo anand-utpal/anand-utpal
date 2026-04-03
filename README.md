@@ -3,7 +3,7 @@
 <p >About me.. </p>
 
 I'm a research student and in my 3rd year of an Integrated BS-MS (Basic Sciences) dual degree course at [IISER PUNE](https://www.iiserpune.ac.in/).
-I am doing a major in physics and working in NLP(Natural Language Processing) and Deep Learning.<br>
+I am doing a major in physics, working in NLP(Natural Language Processing) and Deep Learning.<br>
 
 
 
